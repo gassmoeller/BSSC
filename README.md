@@ -14,3 +14,4 @@ As a maintainer of and contributor to scientific software, I have experienced th
 * Balancing community and architecture work with scientific research,
 * Managing relations with competing projects,
 * Providing fair credit and growth opportunities for contributors.
+* Managing changing and rotating leadership / maintainer roles, manage project forks
