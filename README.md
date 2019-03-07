@@ -11,6 +11,13 @@ that are accessible to scientists. Thus, if you are currently maintaining a
 scientific software project, or think about starting one, we hope to have some
 useful information for you.
 
+We use a [questionnaire](community_self_assessment.md) that helps us
+investigate which policies make Sciencitific Software Communities more
+successful. Answers from common projects will be included in the modules below,
+but if you are interested feel free to read through them, and think about how
+your own project addresses these challenges. We are also interested in getting
+feedback about successful policies you have implemented in your projects.
+
 ## Planned modules
 
 * [Engaging scientific users at project launch](modules/project_launch.md),
