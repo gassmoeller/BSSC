@@ -1,4 +1,4 @@
-# Engaging scientific users at project launch
+# Integrating users uncomfortable with open-source software
 
 This module is under construction, please come back later. 
 

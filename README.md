@@ -10,6 +10,20 @@ potential maintainers. So if you are currently maintaining a scientific
 software project, or think about starting one, we hope to have some useful
 information for you.
 
+## Planned modules
+
+* [Engaging scientific users at project launch](modules/project_launch.md),
+* [Integrating scientists uncomfortable with open-source software](modules/introducing_oss.md),
+* [Balancing community and architecture work with scientific research](modules/balancing_software_science.md),
+* Combining high software quality with a welcoming atmosphere for diverse
+  contributors,
+* Mediating between users working on conflicting features or overlapping
+  publications,
+* Managing relations with competing projects,
+* Providing fair credit and growth opportunities for contributors.
+* Managing changing and rotating leadership / maintainer roles, manage project
+  forks
+
 ## Who am I?
 
 I am a maintainer of and contributor to open-source scientific software
@@ -33,20 +47,6 @@ community leaders, the tutorials will discuss topics such as building a
 welcoming community atmosphere, overcoming skepticism of sharing science and
 software, mediating between users working on conflicting topics or
 publications, and providing credit and growth opportunities for contributors.
-
-## Planned modules
-
-* [Engaging scientific users at project launch](modules/project_launch.md),
-* Integrating scientists uncomfortable with open-source software,
-* Balancing community and architecture work with scientific research,
-* Combining high software quality with a welcoming atmosphere for diverse
-  contributors,
-* Mediating between users working on conflicting features or overlapping
-  publications,
-* Managing relations with competing projects,
-* Providing fair credit and growth opportunities for contributors.
-* Managing changing and rotating leadership / maintainer roles, manage project
-  forks
 
 ## Code of conduct
 
