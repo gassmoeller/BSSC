@@ -21,8 +21,8 @@ These are questions that will be used during the creation of the tutorials. The 
 8. (Credit and Growth) How do contributions to your project get acknowledged? Is there a process for giving credit or even authorship to new contributors? Are these rules explicitly stated? Are these rules publicly available or only known for experienced contributors?
 
 9. (Competing and Upstream Project Relations, this questions is sensitive, answering is optional, and you do not need to provide names)
-  a. Does your project depend on scientific upstream packages (not general-purpose like MPI)? Is there communication between your project and the upstream projectes? Do you provide upstream improvements? 
-  b. Are there competing software projects to yours with similar scope? Is there regular communication between your project and the competing projects? How would you describe the atmosphere between your projects? Competitive? Collegial? Friendly?
+  * Does your project depend on scientific upstream packages (not general-purpose like MPI)? Is there communication between your project and the upstream projectes? Do you provide upstream improvements? 
+  * Are there competing software projects to yours with similar scope? Is there regular communication between your project and the competing projects? How would you describe the atmosphere between your projects? Competitive? Collegial? Friendly?
 
 10. (Rotating leadership) Is your project still primarily lead by the founder of the project? If so, what will likely happen if the founder had to retire from the project? Is there a plan for the transition of leadership? If not, did the transition occur smoothly? Which circumstances and decision were helpful in the process? Were there mistakes that you would want to avoid next time? 
 

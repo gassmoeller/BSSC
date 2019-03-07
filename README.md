@@ -3,27 +3,40 @@
 ## What is BSSC?
 
 BSSC is a series of guides / tutorial modules that are developed with the
-support of the Better Scientific Software project (BBSw, https://bssw.io/). 
-They collect knowledge about managing the community around a
-scientific software project and make it accessible. 
+support of the Better Scientific Software project (BBSw, https://bssw.io/).
+The guides collect knowledge about managing the community around a scientific
+software project and make this knowledge accessible to maintainers and
+potential maintainers. So if you are currently maintaining a scientific
+software project, or think about starting one, we hope to have some useful
+information for you.
 
 ## Who am I?
 
-As a maintainer of and contributor to scientific software, I have experienced
-that many scientific software projects employ state-of-the-art
-technical best practices but struggle to create and maintain an active and
-welcoming community around their software. As a BSSw Fellow, I want to develop a
-tutorial series that discusses the typical social challenges that arise during
-the evolution of a scientific software project. Aimed at current and
-prospective software maintainers and community leaders, the tutorials will discuss
-topics such as building a welcoming community atmosphere, overcoming skepticism
-of sharing science and software, mediating between users working on conflicting
-topics or publications, and providing credit and growth opportunities for
-contributors.
+I am a maintainer of and contributor to open-source scientific software
+projects for the majority of my (still short) scientific career. I am a
+computational geophysicist by background, and I started as user, then
+developer, then maintainer of a project called
+[ASPECT](https://aspect.geodynamics.org) that models rock movements in the
+solid Earth. I later started working for the Computational Infrastructure for
+Geodynamics, an organization commited to developing and disseminating software
+for geophysics and related fields. Since then I have worked on and provided
+guidance to several other software projects in the Earth Sciences.  During my
+work on these projects and during conversations with maintainers of other
+scientific software projects I have experienced that while many projects employ
+state-of-the-art technical best practices, they often struggle to create and
+maintain an active and welcoming community around their software. 
 
-## Planned subtopics
+As a BSSw Fellow, I want to develop a tutorial series that discusses the
+typical social challenges that arise during the evolution of a scientific
+software project. Aimed at current and prospective software maintainers and
+community leaders, the tutorials will discuss topics such as building a
+welcoming community atmosphere, overcoming skepticism of sharing science and
+software, mediating between users working on conflicting topics or
+publications, and providing credit and growth opportunities for contributors.
 
-* Engaging scientific users at project launch,
+## Planned modules
+
+* [Engaging scientific users at project launch](modules/project_launch.md),
 * Integrating scientists uncomfortable with open-source software,
 * Balancing community and architecture work with scientific research,
 * Combining high software quality with a welcoming atmosphere for diverse
