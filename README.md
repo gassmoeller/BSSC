@@ -32,4 +32,15 @@ contributors.
   publications,
 * Managing relations with competing projects,
 * Providing fair credit and growth opportunities for contributors.
-* Managing changing and rotating leadership / maintainer roles, manage project forks
+* Managing changing and rotating leadership / maintainer roles, manage project
+  forks
+
+## Code of conduct
+
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in BSSC and our
+community a harassment-free experience for everyone. Therefore we have adopted
+a [code of conduct](CODE_OF_CONDUCT.md) following the [Contributor Covenant
+Code of Conduct](http://contributor-covenant.org). We expect members of our
+community follow these guidelines to make sure we create a welcoming and open
+environment for everybody.
