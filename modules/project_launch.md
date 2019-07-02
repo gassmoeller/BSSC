@@ -1,6 +1,5 @@
 # Engaging scientific users at project launch
 
-#### Recommended reading: [Starting an open-source project](https://opensource.guide/starting-a-project/)
 #### Reading: x min
 #### Exercises: x min
 #### Questions:
@@ -19,7 +18,16 @@ Community vs Open-source
 
 ## Finding early users
 
-An important challenge that many scientific software projects face is the step from an internally developed to a widely available software. This transition can happen at different stages of a project, e.g. when a mature software project decides to switch to a community organization, after finalizing a Ph.D. project, or right-from-the-start when a researcher decides to develop a new software for the community. A common social problem at this stage is to acquire and hold a userbase, and many SSPs stay at a single contributor forever. This might be intentional though, so when releasing your software you should ask yourself what are realistic expectations for the community of this project, and who will be most interested?
+An important challenge that many scientific software projects face is the step
+from an internally developed to a widely available software. This transition
+can happen at different stages of a project, e.g. when a mature software
+project decides to switch to a community organization, after finalizing a Ph.D.
+project, or right-from-the-start when a researcher decides to develop a new
+software for the community. A common social problem at this stage is to acquire
+and hold a userbase, and many SSPs stay at a single contributor forever. This
+might be intentional though, so when releasing your software you should ask
+yourself what are realistic expectations for the community of this project, and
+who will be most interested?
 
 *Exercise*: 
 Write down the target audience of your project. Be specific (scientific discipline, career stage, application, skill level). How many people approximately fit into this target audience?
@@ -31,6 +39,7 @@ Write down the target audience of your project. Be specific (scientific discipli
 - Focus on a limited number of users
 - Sell either a feature, or a vision
 
+#### Recommended reading: [Starting an open-source project](https://opensource.guide/starting-a-project/)
 
 Want to help? We welcome contributions. Please see our [contributing guidelines](https://github.com/gassmoeller/BSSC/blob/master/CONTRIBUTING.md#contributing-to-bssc).
 
