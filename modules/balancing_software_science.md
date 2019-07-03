@@ -13,8 +13,28 @@
 #### Objectives:
 - Learn how to combine architecture changes with scientific projects
 - Understand that saving time on architecture will cost you time with science
-- Know the difference between 'doing it right the first time' and perfectionalism
 - Consider the different career paths available
+
+
+## Software maintenance is important
+
+
+## Synergies and Motivation - Working on infrastructure for specific projects
+
+- Example cases: +Assember system, -boundary conditions
+
+*Exercise*: Consider you own software. Where can you combine a necessary change in infrastructure with new science?
+
+## Being responsive for community building - but know your limits
+
+- 
+
+## Consider the influence on your career
+
+
+#### Recommended reading:
+
+- [It's ok to hit pause](https://opensource.guide/best-practices/#its-okay-to-hit-pause)
 
 This module is under construction, please come back later.
 

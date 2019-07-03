@@ -14,6 +14,14 @@
 - Understand potential reasons for forks
 - Consider the end-of-life for your project
 
+## Project leadership
+- Spend a bit of time thinking about the long-term
+- Have a backup plan
+
+## Adding maintainers 
+- Know that things are changing when you grow the maintainer base
+
+
 This module is under construction, please come back later.
 
 Want to help? We welcome contributions. Please see our [contributing guidelines](https://github.com/gassmoeller/BSSC/blob/master/CONTRIBUTING.md#contributing-to-bssc).

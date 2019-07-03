@@ -54,6 +54,13 @@ welcoming community atmosphere, overcoming skepticism of sharing science and
 software, mediating between users working on conflicting topics or
 publications, and providing credit and growth opportunities for contributors.
 
+## Resources
+
+Most of the modules contain some links to further reading specific to the questions that are addressed in that module. However, there are also excellent resources available that cover the open-source software (if not the science) side of this material. I highly recommend the following pages for further reading. Many parts of this website have highly benefited from these resources:
+
+- [Producing Open Source Software](https://producingoss.com/)
+- [Open Source Guides](https://opensource.guide/)
+
 ## Code of conduct
 
 In the interest of fostering an open and welcoming environment, we as
