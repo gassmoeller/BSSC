@@ -7,6 +7,7 @@
 #### Questions:
 - How do I balance time spend on software infrastructure and science?
 - How much of my time should I reserve for pure software develoment?
+- How responsive do I need to be?
 - Can I do a lot of software development and still do science?
 
 #### Objectives:
