@@ -18,13 +18,13 @@
 
 ## Why Open-source for science?
 
-- increasingly required
-- better cited
-- less retracted
+- increasingly required (link to funding agencies)
+- better cited (find resources)
+- less retracted (find reference)
 
 ## But others could steal / wrongly apply / discredit my work?
 
-- Address fears, but encourage heroism
+- Address fears, but encourage bravery
 - Emphasize individual responsibility
 
 *Exercise*:
@@ -33,12 +33,16 @@
 ## Working in the open!
 
 - Advertise your skills
+- Ways in which software work is credited
+- When to open up?
 
 ## Software architecture and modularity to the rescue!
 
 - Interfaces
 - Modularity and plugins
 - What should go in, what to keep separate
+
+#### Resources:
 
 
 Want to help? We welcome contributions. Please see our [contributing guidelines](https://github.com/gassmoeller/BSSC/blob/master/CONTRIBUTING.md#contributing-to-bssc).

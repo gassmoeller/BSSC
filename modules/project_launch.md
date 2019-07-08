@@ -16,7 +16,7 @@
 
 Community vs Open-source
 
-## Finding early users
+## Defining your userbase
 
 An important challenge that many scientific software projects face is the step
 from an internally developed to a widely available software. This transition
@@ -30,16 +30,28 @@ yourself what are realistic expectations for the community of this project, and
 who will be most interested?
 
 *Exercise*: 
-Write down the target audience of your project. Be specific (scientific discipline, career stage, application, skill level). How many people approximately fit into this target audience?
+Write down the target audience of your project. Be specific (scientific discipline, career stage, application, skill level). How many people approximately fit into this target audience? How strongly will they benefit from your project?
 
-## Convincing your target audience
+## Finding early users
 
 - Take it seriously
 - Do not force the issue, understand their point of view
 - Focus on a limited number of users
 - Sell either a feature, or a vision
 
-#### Recommended reading: [Starting an open-source project](https://opensource.guide/starting-a-project/)
+*Exercise*:
+Write down an elevator talk for your (or a made-up) project. Think about balancing the excitement for your project, with arguments why the person you talk to should take the project seriously (more than just a fleeting idea).
+
+## User commitment
+
+Having many potential users is not as useful for an early stage project as having a few committed users that stick with the project through its early phases. An ideal scenario is a fixed commitment by somebody to use your software for their scientific project. However, this also means a significant risk on their side. You therefore need to make sure that these users can actually succeed, because they are the most likely candidates for long-term members of your community and ambassadors for your project.
+
+*Exercise*:
+Put yourself in the position of a user to a brand new software project. Think about what you expect, and do not expect from such a project. Does it need have a polished interface? Do you expect it to be correct?
+
+#### Recommended reading: 
+- [Starting an open-source project](https://opensource.guide/starting-a-project/)
+
 
 Want to help? We welcome contributions. Please see our [contributing guidelines](https://github.com/gassmoeller/BSSC/blob/master/CONTRIBUTING.md#contributing-to-bssc).
 

@@ -2,21 +2,19 @@
 
 ## What is BSSC?
 
-BSSC is a series of guides / tutorial modules that are developed with the
-support of the Better Scientific Software project ([BBSw](https://bssw.io/)).
-The guides collect knowledge about managing the community around a scientific
-software project and make this knowledge accessible to maintainers and
-potential maintainers. The tutorials will teach this knowledge in small modules
-that are accessible to scientists. Thus, if you are currently maintaining a
-scientific software project, or think about starting one, we hope to have some
-useful information for you.
+BSSC is a series of guides that are developed with the support of the Better
+Scientific Software project ([BBSw](https://bssw.io/)).  The articles collect
+knowledge about growing and managing the community around a scientific software
+project and make this knowledge accessible to current and future maintainers.
+The tutorials are split into small modules for better accessibility. If you are
+currently maintaining a scientific software project, or think about starting
+one, we hope to have some useful information for you.
 
-We use a [questionnaire](modules/community_self_assessment.md) that helps us
-investigate which policies make Sciencitific Software Communities more
-successful. Answers from common projects will be included in the modules below,
-but if you are interested feel free to read through them, and think about how
-your own project addresses these challenges. We are also interested in getting
-feedback about successful policies you have implemented in your projects.
+Note: There is a lot of information about managing open source projects in general,
+and about technical best practices for software development (see 
+[Resources](#resources)). BSSC is specifically for *managing communities* of
+*scientific* software. We provide links to general resources, but do not discuss
+them in detail.
 
 ## Current List of Modules
 
@@ -28,6 +26,22 @@ feedback about successful policies you have implemented in your projects.
 * [Managing relations with competing projects](modules/managing_relations.md),
 * [Providing fair credit and growth opportunities for contributors](modules/providing_credit_and_opportunities.md),
 * [Managing changes in leadership, manage project forks](modules/managing_leadership.md)
+
+
+## Data Basis
+
+These guides a not a scientific study. They are based on my own years of
+experience, anecdotal evidence, and the answers to a 
+[questionnaire](modules/community_self_assessment.md)
+that was thankfully answered by a number of successful scientific software
+projects. Therefore, we can not prove that these guidelines are useful,
+just that they worked for some projects in the past.
+
+## Contributing
+
+Any contribution to this project is welcome and will be acknowledged in the
+list of [BSSC contributors](https://github.com/gassmoeller/BSSC/graphs/contributors).
+Please follow our [contribution guidelines](https://github.com/gassmoeller/BSSC/blob/master/CONTRIBUTING.md) when making a contribution.
 
 ## Who am I?
 
