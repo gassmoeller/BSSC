@@ -41,7 +41,7 @@ just that they worked for some projects in the past.
 
 Any contribution to this project is welcome and will be acknowledged in the
 list of [BSSC contributors](https://github.com/gassmoeller/BSSC/graphs/contributors).
-Please follow our [contribution guidelines](https://github.com/gassmoeller/BSSC/blob/master/CONTRIBUTING.md) when making a contribution.
+Please follow our [contribution guidelines](CONTRIBUTING.md) when making a contribution.
 
 ## Who am I?
 

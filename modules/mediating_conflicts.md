@@ -24,11 +24,13 @@
 One of the most common conflicts in software development (in particular in science) is an argument about a particular software implementation. In particular if the implementation is made by someone else than you, there are multiple questions that should be carefully considered:
   - What are the benefits of a particular solution?
   - What is the cost of implementation (consider time, but also effects on rest of project)?
+  - Are there multiple sides to this solution (does it help some, but hurt others)? 
   - Who has the time and commitment to do the implementation?
 
-*Exercise:* Consider a typical example conflict in a scientific software project: A new Developer A suggests to implement a relatively simple Algorithm 1 that would address a given problem he encountered while working on the project. Senior Developer B is convinced that a complicated Algorithm 2 would be better suited and she suggests to A to implement this better algorithm. Developer A does not have the skills or time to implement Algorithm 2. How should the project continue?
+*Exercise:* Consider a typical example conflict in a scientific software project: A new Developer A suggests to implement a relatively simple Algorithm 1 that would address a given problem he encountered while working on the project. Senior Developer B is convinced that a complicated Algorithm 2 would be better suited and she suggests to A to implement this better algorithm. Developer A does not have the skills or time to implement Algorithm 2. How should the project continue? List at least 2 potentially good solutions and 2 potentially bad solutions. Click on the headings below to see some common answers.
 
 <details><summary><b>Potentially good solutions</b></summary>
+
 <ul> 
 <li>Go the easy route and let Developer A develop Algorithm 1 and include it in
 the project (optionally replacing it by Algorithm 2 from Developer B later).
@@ -53,6 +55,7 @@ Requests</a>).</li>
 </details>
 
 <details><summary><b>Potentially bad solutions</b></summary>
+
 <ul> 
 <li>Algorithm 1 gets merged without sufficient discussion (e.g. by careless
 Developer C). Potential problems are that Developer B feels that her opinion
