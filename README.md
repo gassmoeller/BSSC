@@ -23,8 +23,8 @@ them in detail.
 * [Balancing community and architecture work with scientific research](modules/balancing_software_science.md),
 * [Combining high software quality with a welcoming atmosphere for diverse contributors](modules/balancing_quality_community.md),
 * [Mediating between users working on conflicting features or overlapping publications](modules/mediating_conflicts.md),
-* [Managing relations with competing projects](modules/managing_relations.md),
 * [Providing fair credit and growth opportunities for contributors](modules/providing_credit_and_opportunities.md),
+* [Managing relations with competing projects](modules/managing_relations.md),
 * [Managing changes in leadership, manage project forks](modules/managing_leadership.md)
 
 
