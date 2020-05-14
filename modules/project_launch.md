@@ -1,7 +1,5 @@
 # Engaging scientific users at project launch
 
-#### Reading: x min
-#### Exercises: x min
 #### Questions:
 - What are my expectations for the community of this project?
 - Who will be most interested in my software?

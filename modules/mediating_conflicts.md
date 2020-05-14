@@ -1,7 +1,5 @@
 # Mediating between users
 
-#### Reading: x min
-#### Exercises: x min
 #### Questions:
 - Can I avoid conflicts in my community? 
 - How to handle conflicts between members of the community?

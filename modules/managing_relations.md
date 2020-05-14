@@ -1,7 +1,5 @@
 # Managing relations with competing projects
 
-#### Reading: x min
-#### Exercises: x min
 #### Questions:
 - Why should I contribute to upstream projects?
 - What kind of relation do I want with competing projects?

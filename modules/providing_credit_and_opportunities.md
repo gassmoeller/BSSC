@@ -1,7 +1,5 @@
 # Providing fair credit and growth opportunities for contributors
 
-#### Reading: x min
-#### Exercises: x min
 #### Questions:
 - Why should I or others contribute work that is not immediately helpful for ourselves?
 - How do I and other members of my community get credit for this work?

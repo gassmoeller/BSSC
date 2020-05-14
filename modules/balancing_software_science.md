@@ -1,9 +1,5 @@
 # Balancing community and architecture work with scientific research
 
-#### Reading: x min
-
-#### Exercises: x min
-
 #### Questions:
 - How do I balance time spend on software infrastructure and science?
 - How much of my time should I reserve for pure software develoment?

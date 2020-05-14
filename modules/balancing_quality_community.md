@@ -1,7 +1,5 @@
 # Balancing software quality and community contributions
 
-#### Reading: x min
-#### Exercises: x min
 #### Questions:
 - Why do I have to spend so much time on improving community contributions?
 - Should I merge everything and fix it later?

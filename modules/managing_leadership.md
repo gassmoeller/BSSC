@@ -1,7 +1,5 @@
 # Managing changes in leadership, manage project forks, sunsetting projects
 
-#### Reading: x min
-#### Exercises: x min
 #### Questions:
 - Do I want my project to continue even in case I have to step away from it?
 - How should the new leadership role in our project be determined?

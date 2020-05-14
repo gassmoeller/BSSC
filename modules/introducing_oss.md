@@ -1,9 +1,5 @@
 # Integrating users uncomfortable with open-source software
 
-#### Reading: x min
-
-#### Exercises: x min
-
 #### Questions:
 - What are the implications of using/developing open-source software for science?
 - Why are some scientists uncomfortable with open-source software?
